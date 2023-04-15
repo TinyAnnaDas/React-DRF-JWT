@@ -1,4 +1,35 @@
+# Login System with DRF and React
 
+A simple web application with both user and admin side 
+
+
+## Features
+User Side
+
+        a. Login/Register
+        b. Home page (navigation to user profile)
+        c. User Profile page with profile image upload option. 
+Admin side
+
+    a. Admin login 
+    b. Admin is  able to view and perform search on user data
+
+
+
+
+
+## Tech Stack
+
+**Client:** React, Redux
+
+**Server:** Django Rest Framework, JWT authentication and authorization, SQLite database
+
+
+## Demo
+
+
+
+https://drive.google.com/file/d/1iBEbsqPyLSz6eET85WZvNrDhn_d5Tzx0/view?usp=share_link
 
 # Getting Started with Create React App
 
