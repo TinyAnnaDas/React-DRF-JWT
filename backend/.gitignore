@@ -17,3 +17,5 @@ logs/
 
 # Django migrations
 **/migrations/
+
+.env
