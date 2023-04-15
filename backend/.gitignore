@@ -1,0 +1,19 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Local configuration files
+/env
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Log files
+logs/
+
+# Django migrations
+**/migrations/
